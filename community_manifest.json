@@ -12,7 +12,7 @@
     },
     {
       "name": "Center Anchor Point",
-      "description": "Centers the anchor point for all selected layers.",
+      "description": "Centers the anchor point for all selected layers. Centers the anchor point for all selected layers. Centers the anchor point for all selected layers. Centers the anchor point for all selected layers. Centers the anchor point for all selected layers. Centers the anchor point for all selected layers. Centers the anchor point for all selected layers. Centers the anchor point for all selected layers. Centers the anchor point for all selected layers. Centers the anchor point for all selected layers. Centers the anchor point for all selected layers. Centers the anchor point for all selected layers. Centers the anchor point for all selected layers. Centers the anchor point for all selected layers. Centers the anchor point for all selected layers. Centers the anchor point for all selected layers. Centers the anchor point for all selected layers.",
       "script": "var selectedLayers = app.project.activeItem.selectedLayers; if (selectedLayers.length > 0) { app.executeCommand(app.findMenuCommandId('Center Anchor Point in Layer Content')); } else { alert('Please select at least one layer.'); }"
     }
   ]
