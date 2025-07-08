@@ -4,7 +4,8 @@
       "name": "Create Null",
       "description": "Creates a new Null Object layer in the active composition.",
       "script": "var comp = app.project.activeItem; if (comp && comp instanceof CompItem) { comp.layers.addNull(); } else { alert('Please select a composition.'); }",
-      "author": "John Doe"
+      "author": "John Doe",
+      "youtubeUrl": "https://youtube.com/shorts/DPZGz1_5bXs"
     },
     {
       "name": "Toggle Shy Layers",
