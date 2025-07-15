@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.2",
-  "notes": "Ключевые изменения: Test-1",
+  "latestVersion": "1.3",
+  "notes": "Update fix 15.07.2025",
   "downloadUrl": "https://raw.githubusercontent.com/Lucky4people/ae-button-manager-updates/refs/heads/1.2/index.html",
   "scriptUrl": "https://raw.githubusercontent.com/Lucky4people/ae-button-manager-updates/refs/heads/1.2/script.obfuscated.js",
   "minimumHostVersion": "24.0"
