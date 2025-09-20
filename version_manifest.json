@@ -1,7 +1,11 @@
 {
-  "latestVersion": "1.3",
-  "notes": "Update fix 15.07.2025",
-  "downloadUrl": "https://github.com/Lucky4people/ae-button-manager-updates/raw/refs/heads/Updates/ButtonManager_Update_1.3_072025.rar",
-  "youtubeUrl": "https://youtube.com/shorts/TL8ehGkke5U",
-  "minimumHostVersion": "24.0"
+    "latestVersion": "1.3",
+    "downloadUrl": "https://your-download-link.com",
+    "notes": "Bug fixes and improvements",
+    "whatsNew": [
+        "Added color palette feature",
+        "Improved button sorting",
+        "Fixed icon display issues"
+    ],
+    "videoTutorialUrl": "https://www.youtube.com/embed/YOUR_VIDEO_ID"
 }
