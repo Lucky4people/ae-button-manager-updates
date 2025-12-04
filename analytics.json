@@ -1,0 +1,10 @@
+{
+  "totalUsers": 1,
+  "totalClicks": 45,
+  "features": {
+    "Home Page Buttons": 20,
+    "Curve Editor": 10,
+    "Color Palette": 8,
+    "Create from Layer Effects": 7
+  }
+}
