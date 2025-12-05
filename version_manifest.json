@@ -1,13 +1,12 @@
 {
-    "latestVersion": "1.2",
-    "downloadUrl": "https://github.com/Lucky4people/ae-button-manager-updates/raw/refs/heads/Updates/ButtonManager_Update_1.3_072025.rar",
-    "whatsNew": [
-        "Added color palette feature",
-        "Improved button sorting",
-        "Fixed icon display issues"
-    ],
-    "videoTutorialUrl": "https://www.youtube.com/embed/YOUR_VIDEO_ID"
+  "latestVersion": "1.2",
+  "downloadUrl": "https://github.com/Lucky4people/ae-button-manager-updates/raw/refs/heads/Updates/ButtonManager_Update_1.3_072025.rar",
+  "scriptUrl": "https://github.com/Lucky4people/ae-button-manager-updates/raw/refs/heads/Updates/ButtonManager_Update_1.3_072025.rar",
+  "whatsNew": [
+    "Added color palette feature",
+    "Improved button sorting",
+    "Fixed icon display issues"
+  ],
+  "videoTutorialUrl": "https://www.youtube.com/embed/YOUR_VIDEO_ID",
+  "showUpdate": false
 }
-
-
-
