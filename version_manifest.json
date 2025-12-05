@@ -7,5 +7,5 @@
     "Fixed icon display issues"
   ],
   "videoTutorialUrl": "https://www.youtube.com/embed/YOUR_VIDEO_ID",
-  "showUpdate": true
+  "showUpdate": false
 }
